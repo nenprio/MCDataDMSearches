@@ -1,3 +1,3 @@
 # MCDataDMSearches
 
-https://github.com/nenprio/MCDataDMSearches.git
+Funding:  National Science Centre, project no 2020/38/E/ST2/00112
